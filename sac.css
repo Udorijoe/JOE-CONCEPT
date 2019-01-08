@@ -1,0 +1,117 @@
+.gud{
+   border: white 4px ridge;
+   width: 180px;
+   height: 55px;
+   margin-top: 470px;
+   border-radius: 50px; border-right-color: brown; border-left-color:brown;
+}
+ :hover.gud{
+    border:brown 4px ridge;
+    width: 180px;
+    height: 55px;
+    margin-top: 470px;
+    border-radius: 50px; border-right-color:white; border-left-color:white;
+ }
+
+.bt{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+:hover.tb{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    border: 2px solid ;
+}
+.am{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hh{
+    background-color: black;
+}
+.we{
+    height: 50px;
+    color: brown;
+}
+
+.hmm{
+    background-color: brown;
+}
+
+.aa{
+    border: 3px ridge white; 
+    border-radius: 10px;
+}
+.ab{
+    border: 3px ridge white; 
+    border-radius: 10px;
+}
+.ac{
+    border: 3px ridge white; 
+    border-radius: 10px;
+}
+.ub{
+     font-size: 30px;
+}
+.hi{
+    width: 80px;
+    border-radius: 30px;
+}
+.uuu{
+    width: 200px;
+    border-radius: 30px;
+}
+.rt{
+    font-size: 13px;
+}
+.rut{
+    background-color:  rgb(51, 27, 27);
+}
+.sac{
+    background-image: url("img/m4.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.deal{
+    background-color: rgb(104, 57, 57);
+}
+.drk{
+    background-color: black;
+}
+.dk{
+    background-color: rgb(51, 27, 27);
+}
+.ah{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+}
+.brr{
+    background:white;
+    color: brown;
+    width: 150px;
+}
+
+ :hover.brr{
+    background:black;
+    color: white;
+    width: 150px;
+}
+
+.dash{
+    background-color: black;
+}
+
+.dark{
+    background-color: rgb(51, 27, 27);
+}
+ .cre{
+    list-style: none;
+}
+ :hover.hu{
+    border: 3px ridge  brown;
+    border-radius: 50px;
+    background: black;
+    width: 30px;
+    padding: 5px;
+    border-top-color: white;
+
+}
